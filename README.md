@@ -12,8 +12,4 @@ Analysis and comparision of four algorithms for multiplying two numbers represen
 
 ### Complexity
 
-Algorithm      Best case      Worst case  
-Base            O(n^2)          O(n^2)\
-Omptimized      O(n)            O(n^2)\
-Shift M         O(n^2)          O(n^2)\
-Repeated sum    O(n)            O(2^n)
+<img width="363" height="135" alt="image" src="https://github.com/user-attachments/assets/c7a217ae-ef9e-4b5e-87b1-b55f5abde223" />
